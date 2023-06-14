@@ -1,3 +1,4 @@
+const validator = require('validator')
 const getNotes= require('./notes.js')
-const myNotes = getNotes()
-console.log(myNotes)
+const msg = getNotes()
+console.log(msg)

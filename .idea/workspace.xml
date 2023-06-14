@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d47af7-6bef-445d-b4d2-303e704bf660" name="Changes" comment="" />
+    <list default="true" id="b9d47af7-6bef-445d-b4d2-303e704bf660" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ryan/JavaScript/Odin/to-do-list",
+    "last_opened_file_path": "/home/ryan/JavaScript/Node.js/Udemy-Course/notes-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +55,7 @@
       <workItem from="1686603163821" duration="1711000" />
       <workItem from="1686610441743" duration="5000" />
       <workItem from="1686610469087" duration="4676000" />
+      <workItem from="1686685388440" duration="6234000" />
     </task>
     <servers />
   </component>

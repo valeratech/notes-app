@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/valeratech/notes-app#readme",
   "dependencies": {
+    "add": "^2.0.6",
     "chalk": "^2.4.1",
-    "validator": "^13.9.0"
+    "validator": "^13.9.0",
+    "yargs": "^17.7.2"
   }
 }
